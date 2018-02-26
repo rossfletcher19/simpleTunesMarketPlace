@@ -1,0 +1,21 @@
+{
+  "name": "online-store",
+  "description": "a store to market and sell our top hits",
+  "main": "",
+  "authors": [
+    "Ross and Kyle"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
