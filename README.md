@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * Create a new file called 'api-keys.ts' in the src/app directory
 * Create an account at [Firebase](https://firebase.google.com/) and obtain an api-key
-* Than place your Firebase credentials in the 'api-keys.ts' as pictured below:
+* Then place your Firebase credentials in the 'api-keys.ts' as pictured below:
       `export var masterFirebaseConfig = {
         apiKey: "xxxx",
         authDomain: "xxxx.firebaseapp.com",
